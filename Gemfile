@@ -1,0 +1,16 @@
+source 'http://rubygems.org'
+
+gem 'rake'
+gem 'cucumber'
+gem 'rspec'
+gem 'page-object'
+gem 'data_magic'
+gem 'require_all'
+gem 'fig_newton'
+
+gem 'activerecord', '3.2.11'
+gem 'factory_girl'
+gem 'database_cleaner'
+gem 'sqlite3'
+gem  'nokogiri'
+gem 'builder'
